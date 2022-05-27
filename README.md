@@ -6,6 +6,7 @@ Se realizaron practicas propuestas para la evaluacion, comprensión y Practica d
 
 1.- MODELADO 
     Se realizo el modelado de personajes de la franquicia de Harry Potter 
+    
 2.-HERENCIA Y POLIMORFISMO
     Se realizo el modelado de la mascota de la plataforma donde se utilizo la herencia para contruir a diferentes versiones del pesonaje base, el cual este
     es muy polimorfico ya que tiene muchas formas en las que se puede comportar.
